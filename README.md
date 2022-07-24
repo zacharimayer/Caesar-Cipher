@@ -1,5 +1,5 @@
-# Caeser-Cipher
-Basic Caeser Cipher for encryption written in python. 
+# Caesar-Cipher
+Basic Caesar Cipher for encryption written in python. 
 
 Run:
 
